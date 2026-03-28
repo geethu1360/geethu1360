@@ -24,7 +24,6 @@
 ---
 
 ## 📈 GitHub Stats & Streaks
-## 📈 GitHub Stats & Streaks
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=geethu1360&show_icons=true&theme=radical" alt="Geethu's Stats" />
   <br/>
