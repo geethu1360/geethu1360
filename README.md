@@ -1,4 +1,4 @@
-
+<img src="my-profile.jpg" width="180" align="right" style="border-radius: 50%;">
 
 # Hi 👋, I'm Geethu Krishna
 
