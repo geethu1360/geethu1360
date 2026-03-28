@@ -1,54 +1,49 @@
+# Hi 👋, I'm Geethu Krishna
 
-# Hi there, I'm Geethu! 👋
-
-I am a passionate **Python Fullstack Developer** based in Thiruvananthapuram, Kerala. I recently completed an intensive Fullstack Development course at Apponix Academy and hold a B.Tech in Computer Science and Engineering. I love building scalable web applications and am always eager to learn new technologies.
-
----
-
-### 🚀 Professional Summary
-- 🎓 **B.Tech in Computer Science & Engineering** from College of Engineering Adoor (APJ Abdul Kalam Technological University).
-- 🛠️ **Python Fullstack Developer** with a focus on building robust backends and interactive frontends.
-- 💡 Interested in web architecture, UI/UX, and creating engaging content on YouTube.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Python+Fullstack+Developer;React.js+Enthusiast;Django+Backend+Developer;B.Tech+CSE+Graduate">
+</p>
 
 ---
 
-### 🛠️ Technical Skills
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
-| **Frameworks** | ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |
-| **Tools & DB** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
-
----
-
-### 📂 Featured Projects
-
-#### 🎓 Learning Management System (LMS)
-*A comprehensive full-stack platform for education management.*
-- **Backend:** Django
-- **Frontend:** React.js
-- **Features:** User authentication, course management, and progress tracking.
-
-#### 🏠 PG Listing Application
-*A web app to help users find and list paying guest accommodations.*
-- **Tech Stack:** React, Python, Django.
-- **Goal:** Simplifying the search for student and professional housing.
-
-#### 🍕 Interactive Pizza Slider
-*A creative UI project focusing on React state management and animations.*
-- Developed during training to master component-based architecture.
+## 👨‍💻 About Me
+- 🔭 **Currently working on:** A Full-stack PG Listing Application.
+- 🌱 **Learning:** Advanced Django Rest Framework and Cloud Deployment.
+- 🎓 **Education:** B.Tech in CSE from College of Engineering Adoor.
+- 💬 **Ask me about:** Python, Django, React.js, and Web Architecture.
+- ⚡ **Fun fact:** I'm learning to play the ukulele! 🎸
 
 ---
 
-### 📊 GitHub Stats
-![Geethu's GitHub stats](https://github-readme-stats.vercel.app/api?username=geethu1360&show_icons=true&theme=radical)
+## 🛠️ Tech Stack
+- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- **Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+- **Backend:** ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+- **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
 ---
 
-### 🤝 Connect with Me
-Let's talk about web development, sitcoms, or even ukulele chords!
+## 📈 GitHub Stats & Streaks
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geethu1360&show_icons=true&theme=radical" alt="Geethu's Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geethu1360&theme=radical" alt="Geethu's Streak" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geethu-krishna-gk)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geethukrishna3718@gmail.com)
 ---
-*“Coding is the closest thing we have to magic.”*
+
+## 📂 Featured Projects
+- **LMS (Learning Management System):** A full-stack platform using Django & React.
+- **PG Listing App:** Real-world application for finding accommodation.
+- **Pizza Slider UI:** interactive React component for dynamic UX.
+
+---
+
+## 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/geethu-krishna-gk](https://www.linkedin.com/in/geethu-krishna-gk)
+- **Email:** [geethukrishna3718@gmail.com](mailto:geethukrishna3718@gmail.com)
+
+---
+<p align="center">
+  <i>"Turning coffee into code and ideas into reality."</i>
+</p>
