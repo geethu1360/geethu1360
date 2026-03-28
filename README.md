@@ -1,4 +1,4 @@
-<img src="https://github.com/geethu1360.png" width="180" align="right" style="border-radius: 50%; margin: 20px;">
+
 
 # Hi 👋, I'm Geethu Krishna
 
