@@ -1,10 +1,5 @@
-<div align="center">
-  <img src="my-profile.jpg" width="160" style="border-radius: 50%; border: 3px solid #36BCF7;">
   
   <h1>Hi 👋, I'm Geethu Krishna</h1>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Python+Fullstack+Developer;React.js+Enthusiast;Django+Backend+Developer;B.Tech+CSE+Graduate">
-</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Python+Fullstack+Developer;React.js+Enthusiast;Django+Backend+Developer;B.Tech+CSE+Graduate">
