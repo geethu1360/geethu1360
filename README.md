@@ -24,8 +24,9 @@
 ---
 
 ## 📈 GitHub Stats & Streaks
+## 📈 GitHub Stats & Streaks
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geethu1360&show_icons=true&theme=radical" alt="Geethu's Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=geethu1360&show_icons=true&theme=radical" alt="Geethu's Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geethu1360&theme=radical" alt="Geethu's Streak" />
 </p>
